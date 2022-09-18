@@ -104,7 +104,7 @@ $ npm install
 DATABASE_URL="file:../src/database/db.sqlite"
 
 # Run the development server
-$ npm run start
+$ npm run dev
 
 # The app will automatically reload if you change any of the source files.
 ```
